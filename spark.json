@@ -1,7 +1,7 @@
 {
-	"name": "MFRC522 Ultralite Support",
+	"name": "MFRC522US",
 	"author": "Paul Kourany",
 	"version": "0.0.2",
 	"license": "Unknown",
-	"description": "MFRC522 RFID library"
+	"description": "MFRC522 RFID library with dangerous things xNTi support"
 }
